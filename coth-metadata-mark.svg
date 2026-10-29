@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Church On The Hill abstract mark">
+  <rect width="512" height="512" fill="#FAFAFC"/>
+  <path d="M114 390V248l82-45v187z" fill="#662D91"/>
+  <path d="M215 390V176l82-45v259z" fill="#662D91"/>
+  <path d="M316 390V104l82-45v331z" fill="#F19D00"/>
+  <path d="M114 407h284" stroke="#13081C" stroke-width="22"/>
+</svg>
